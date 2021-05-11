@@ -18,3 +18,6 @@
 ### Naïve Cipher
 - We are given a ciphertext that has been shifted up or down the alphabet with a certain key
 - We can figure out the key by finding out the difference between the original flag as we already know the flag format `inctfj{}`
+- Key: `-5` \ flag: `inctfj{thee_the_master_of_caeser_cipher}`
+
+### Angry Steve
