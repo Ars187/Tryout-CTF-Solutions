@@ -11,4 +11,10 @@
 - Decode it backwards and you will get the flag `inctfj{b4s3s_4r3_c00000000l}`
 
 ### Single byte X0r
-- We are given an xor encoded cipher text 
+- We are given a cipher text that has been xored against a single character `z`
+- To get the flag we just need to xor it again with the same key
+- Flag: `inctfj{x0r_c4n't_b3_e4sily_br0k3n}` 
+
+### Naïve Cipher
+- We are given a ciphertext that has been shifted up or down the alphabet with a certain key
+- We can figure out the key by finding out the difference between the original flag as we already know the flag format `inctfj{}`
