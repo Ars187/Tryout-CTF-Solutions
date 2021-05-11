@@ -47,4 +47,4 @@
 - By using a tool like `Ghex` or `HxD Editor`, we can select the data and save them to a new file with jpg format which will give us the image with the flag
 
 ![image1](https://user-images.githubusercontent.com/71893695/117829498-71403480-b290-11eb-8618-1593cb86ce2a.jpg)
-- Flag: `inctfj{y0u_c4nt_s33_m3!!!}`
+- Flag: `inctfj{y0u_c4nt_s33_m3!!}`
