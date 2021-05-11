@@ -21,3 +21,5 @@
 - Key: `-5` \ flag: `inctfj{thee_the_master_of_caeser_cipher}`
 
 ### Angry Steve
+- We are given a jpg with some text hidden inside it.
+- Any printable 
